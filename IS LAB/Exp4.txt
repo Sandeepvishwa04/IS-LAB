@@ -1,8 +1,8 @@
-student@fedora ~]$ su  
+student@fedora ~]$ student  
 Password:  
 [root@fedora student]# yum install httpd  
 
-Last metadata expiration check: 0:37:03 ago on Thu 30 Mar 2023 11:13:52 PM EDT.  
+Last metadata expiration check: 0:30:07 ago on Thu 30 Mar 2023 11:13:52 PM EDT.  
 Package httpd-2.4.56-1.fc36.x86_64 is already installed.  
 Dependencies resolved.  
 Nothing to do.  
